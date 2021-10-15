@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+1. Ordered List
+2. Ordered List with unordered
+   - Unordered List
+3. Emoji
+   - :smile:
